@@ -1,1 +1,1 @@
-pytorch can be downlowned from https://github.com/Hansry/Pytorch.git
+pytorch can be downlowned from https://github.com/Hansry/pytorch.git
