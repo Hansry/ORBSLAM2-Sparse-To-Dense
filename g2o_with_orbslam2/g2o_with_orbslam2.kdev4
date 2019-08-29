@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=g2o_with_orbslam2
